@@ -1,0 +1,147 @@
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="BeritaPapua - Berita, informasi, dan update terkini dari indonesia timur">
+    <meta name="keywords" content="BeritaPapua, berita, info terkini, update, liputan">
+    <meta name="author" content="BeritaPapua Berbagi 2025">
+    <title>BeritaPapua.github.io</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e3e3e3;
+        }
+        header {
+            background-color: #ff6f61;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 36px;
+        }
+        header p {
+            font-size: 18px;
+            margin: 5px 0;
+        }
+        nav {
+            background-color: #333;
+            text-align: center;
+            padding: 15px 0;
+        }
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 20px;
+        }
+        nav ul li a {
+            color: white;
+            font-size: 18px;
+            text-decoration: none;
+        }
+        nav ul li a:hover {
+            color: #ff6f61;
+        }
+        main {
+            padding: 30px;
+        }
+        section {
+            background-color: white;
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #ff6f61;
+            font-size: 28px;
+            margin-bottom: 15px;
+        }
+        article {
+            margin-bottom: 20px;
+        }
+        article h3 {
+            color: #333;
+            font-size: 24px;
+        }
+        article p {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #555;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <h1>berita-papua</h1>
+        <p>Berita, Informasi, dan Update Terkini dari Berita-Papua</p>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <ul>
+            <li><a href="#home">Beranda</a></li>
+            <li><a href="#news">Berita</a></li>
+            <li><a href="#trending">Tren</a></li>
+            <li><a href="#contact">Kontak</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Section Berita -->
+        <section id="news">
+            <h2>Berita Papua Terbaru</h2>
+            <article>
+                <h3>Selamat Datang di SuaraCendrawasih</h3>
+                <p>Papua, tanah yang kaya akan budaya, alam eksotis, dan cerita yang sering terdengar samar di balik gemuruh berita nasional. Di tengah keindahan lembah hijau, gunung menjulang, dan laut biru, terdapat narasi kompleks tentang kehidupan, harapan, dan perjuangan. SuaraCendrawasih hadir sebagai platform yang berkomitmen untuk menyajikan berita-berita dari Papua secara mendalam, objektif, dan manusiawi. Kami percaya: setiap sudut Papua layak didengar. </p>
+            </article>
+            <article>
+                <h3>Mengapa Papua Perlu Suara Khusus?</h3>
+                <p>Papua bukan sekadar titik di peta Indonesia timur. Ia adalah rumah bagi lebih dari 300 suku asli, seperti Dani, Asmat, dan Yali, yang menjaga warisan leluhur dengan teguh. Namun, isu-isu seperti ketimpangan pembangunan, konflik sosial, dan pelestarian lingkungan seringkali hanya menjadi headline tanpa konteks. Media mainstream kerap terjebak dalam narasi yang simplistik—entah itu romantisasi alam atau stigmatisasi konflik.</p>
+                <p>Di SuaraCendrawasih, kami berupaya melampaui itu. Kami ingin menjadi jembatan yang mempertemukan pembaca dengan kisah-kisah autentik: dari seniman tato tradisional di Wamena hingga aktivis lingkungan di Raja Ampat. Setiap artikel dirancang untuk memberikan perspektif yang utuh, bukan sekadar hitam-putih.</p>
+            </article>
+        </section>
+
+        <!-- Section Tren -->
+        <section id="trending">
+            <h2>Tren Terbaru</h2>
+            <article>
+                <h3>Gerakan #PapuaMudaBersih: Aksi Viral Pemuda Papua Bersihkan Sampah Plastik di Pesisir Sorong</h3>
+                <p>Sorong, Papua Barat – Sebuah video pendek yang diunggah oleh sekelompok pemuda Papua di TikTok mendadak viral dalam 48 jam terakhir. Video tersebut menampilkan puluhan anak muda asli Sorong membersihkan sampah plastik di pesisir Pantai Maruni, lengkap dengan tarian tradisional dan yel-yel khas Papua. Tagar #PapuaMudaBersih pun trending di Twitter dengan lebih dari 15.000 cuitan, memicu dukungan dari netizen hingga selebritas nasional.</p>
+            </article>
+            <article>
+                <h3>Gerakan ini diprakarsai oleh Yosias Wonda (23), mahasiswa Universitas Papua yang prihatin dengan menumpuknya sampah plastik di daerah pesisir. "Kami sering diving di sini. Dulu terumbu karangnya indah, sekarang banyak yang tertutup sampah. Daripada mengeluh, kami putuskan bertindak," ujarnya kepada SuaraCendrawasih.</p>
+            </article>
+        </section>
+
+        <!-- Section Kontak -->
+        <section id="contact">
+            <h2>Kontak Kami</h2>
+            <p>Jika Anda memiliki pertanyaan atau ingin mengirimkan informasi berita, jangan ragu untuk menghubungi kami melalui email di <a href="mailto:contact@berita-papua.com">contact@berita-papua.com</a>.</p>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Berita-papua. Semua Hak Cipta Dilindungi.</p>
+    </footer>
+</body>
+</html>
